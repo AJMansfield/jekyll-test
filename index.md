@@ -1,5 +1,5 @@
 ---
-permalink: 123
+permalink: index
 ---
 
 Other stuff in here.
